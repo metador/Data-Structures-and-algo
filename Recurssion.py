@@ -1,4 +1,4 @@
-sdef recu(n):
+def recu(n):
 
     if n==1:
         print
